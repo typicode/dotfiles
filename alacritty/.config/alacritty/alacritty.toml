@@ -1,7 +1,6 @@
 [window]
 option_as_alt = "Both"
 decorations = "Buttonless"
-dynamic_padding = true
 
 [font]
 normal = { family = "JetBrainsMono Nerd Font" }
